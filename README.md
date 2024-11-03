@@ -49,4 +49,6 @@ The kafka-producer-consumer-app application consumes messages from SOURCE_TOPIC,
 4. Check Logs
 Confirm the correct routing by viewing logs. The logs will display messages received from each topic (SOURCE_TOPIC, EVEN_TOPIC, and ODD_TOPIC).
 
+Refer Test results : src/test/resources/Test_Results.docx
+
 This setup verifies the application's routing logic based on age and allows for easy testing and debugging of Kafka message flows.
